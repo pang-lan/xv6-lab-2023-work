@@ -1,0 +1,29 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/riscv64-linux-gnu-gcc",
+      "-Wall",
+      "-Werror",
+      "-O",
+      "-fno-omit-frame-pointer",
+      "-ggdb",
+      "-gdwarf-2",
+      "-DSOL_UTIL",
+      "-DLAB_UTIL",
+      "-mcmodel=medany",
+      "-ffreestanding",
+      "-fno-common",
+      "-mno-relax",
+      "-I.",
+      "-fno-stack-protector",
+      "-fno-pie",
+      "-c",
+      "-o",
+      "user/sleep.o",
+      "user/sleep.c"
+    ],
+    "directory": "/home/panglan/Codes/Project/xv6-labs-2023",
+    "file": "/home/panglan/Codes/Project/xv6-labs-2023/user/sleep.c",
+    "output": "/home/panglan/Codes/Project/xv6-labs-2023/user/sleep.o"
+  }
+]
