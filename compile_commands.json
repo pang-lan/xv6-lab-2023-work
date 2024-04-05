@@ -19,11 +19,11 @@
       "-fno-pie",
       "-c",
       "-o",
-      "user/sleep.o",
-      "user/sleep.c"
+      "user/pingpong.o",
+      "user/pingpong.c"
     ],
-    "directory": "/home/panglan/Codes/Project/xv6-labs-2023",
-    "file": "/home/panglan/Codes/Project/xv6-labs-2023/user/sleep.c",
-    "output": "/home/panglan/Codes/Project/xv6-labs-2023/user/sleep.o"
+    "directory": "/home/panglan/Codes/learn/xv6-labs-2023",
+    "file": "/home/panglan/Codes/learn/xv6-labs-2023/user/pingpong.c",
+    "output": "/home/panglan/Codes/learn/xv6-labs-2023/user/pingpong.o"
   }
 ]
